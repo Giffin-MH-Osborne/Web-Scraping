@@ -26,7 +26,7 @@ chrome_options.add_argument("--window-size=%s" % WINDOW_SIZE)
 
 #Customizable Options
 hardcode_location = "Toronto, ON"
-set_location = "Kincardine_ON"
+set_location = "_____________"
 number_of_pages = 10
 
 #Job Titles to Search
