@@ -1,0 +1,9 @@
+{
+    "IP": "173.241.104.74",
+    "Locale": [
+        44.6941,
+        -81.0962
+    ],
+    "City": "Owen Sound",
+    "Province": "Ontario"
+}
